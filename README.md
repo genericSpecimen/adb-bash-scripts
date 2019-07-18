@@ -31,3 +31,4 @@ You can place it wherever you like. If the script is in the current working dire
 
 Recently, I had to factory reset my phone but I saw that I had installed a lot of applications over time. Manually installing them again was a tedious task. So I wrote these scripts to do that for me. 😄
 I used [pull-apks](./pull-apks.sh) to pull apks onto my computer. Then, I reset my phone. After that, I used [install-packages](./install-packages.sh) to install all the apks. I also used [uninstall-packages.sh](./uninstall-packages.sh) to get rid of some unwanted apps.
+
