@@ -24,7 +24,7 @@ You can place it wherever you like. If the script is in the current working dire
 3. [myapps](./myapps.sh): This script has one simple purpose. It will get the package names of all 3rd party apps in your device, and create an `.html` file containing these names along with the Play Store URLs of the apps.
 4. [uninstall-packages](./uninstall-packages.sh): This script will uninstall all packages listed inside a file, which is given to the script as an argument. Example usage:
 `./uninstall-packages.sh personal-list.txt`. This uninstalls all packages listed inside personal-list.txt.
-5. [find-package](./find-package.sh): This simple one liner is useful for quickly finding the package name of an application, and then copies it to the clipboard. Example usage:
+5. [find-package](./find-package.sh): This simple one liner is useful for quickly finding the package name of an application, and then copying it to the clipboard. Example usage:
 `./find-package.sh firefox` copies `org.mozilla.firefox` to the clipboard.
 
 ## Motivation
